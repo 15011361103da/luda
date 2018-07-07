@@ -2,7 +2,7 @@ package git;
 
 public class LuDa {
 /**
- * 666
+ * 888
  */
 	int a = 4;
 }
